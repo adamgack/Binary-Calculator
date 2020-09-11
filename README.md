@@ -3,7 +3,7 @@ By Adam Gackenheimer, Austin Foster, Robert Klueber, Daniel Gonzalez, and Matthe
 ## How to use
 Input your binary number using the 0 and 1 buttons.  
 Press the clear button to refresh the calculator.  
-Perform operations on your numbers using the various operator buttons, +, -, x, %, x^2, and √.  
+Perform operations on your numbers using the various operator buttons, +, -, x, /, x^2, and √.  
 Press the = button to finalize the operation.  
 You can convert your display from binary to decimal using the toggle button.  
 ## Contributions
@@ -14,7 +14,8 @@ Daniel Gonzalez = Created tests
 Matthew Schrag = Created binary convertor and arithemetic operators  
 All = Contributed during Zoom meetings  
 ## Meetings
-We all met for Zoom meetings at 4pm on Thursday and 1pm on Friday.  
+We all met for Zoom meetings at 4pm on 9/10 and 1pm on 9/11.  
+During the first meeting we established who would do what and during the second we polished what we started the day before.
 We did the majority of the work while on call with each other.  
 ## Snapshots
 ![Addition](https://github.com/adamgack/Binary-Calculator/blob/master/Screenshots/addition.png)  
