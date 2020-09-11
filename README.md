@@ -7,7 +7,7 @@ Perform operations on your numbers using the various operator buttons, +, -, x, 
 Press the = button to finalize the operation.  
 You can convert your display from binary to decimal using the toggle button.  
 ## Contributions
-Adam Gackenheimer = Created slack group, repo, gitignore, README, made finishing touches to code  
+Adam Gackenheimer = Created slack group, repo, gitignore, README, and made finishing touches to code  
 Austin Foster = Created UI  
 Robert Klueber = Created square and squareroot functions  
 Daniel Gonzalez = Created tests  
