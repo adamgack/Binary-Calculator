@@ -3,7 +3,7 @@ By Adam Gackenheimer, Austin Foster, Robert Klueber, Daniel Gonzalez, and Matthe
 ## How to use
 Input your binary number using the 0 and 1 buttons.  
 Press the clear button to refresh the calculator.  
-Perform operations on your numbers using the various operator buttons, +, -, x, %, x^2, and √.  
+Perform operations on your numbers using the various operator buttons, +, -, x, /, x^2, and √.  
 Press the = button to finalize the operation.  
 You can convert your display from binary to decimal using the toggle button.  
 ## Contributions
